@@ -1,0 +1,14 @@
+﻿Jakob Kotrc
+1/19/2026
+Mart 120 
+
+
+GUI vs CLI
+
+
+
+
+         GUI is pretty simple and easy to use. Since everything is about visuals when it comes to GUI, all someone has to do is just read and infer what many things mean. Something like 3 lines in the top right corner isn’t something that a user would recognize on their first time seeing a GUI but after some time it’s become a common way to lead someone into the settings of their computer or game.
+
+
+        CLI feels like the complete opposite of GUI. CLI is a prompt where you type what you want to happen, which sounds easy, but to make it work successfully there needs to be certain ways of typing out what you want done. For example some phrases may need to start with a “>” or “/” or some other detail that most people aren’t really in the practice of using. Whenever I need to use CLI I tend to simply look up how to fix the problem I’m having in Google and just copy what I see.
